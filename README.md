@@ -10,5 +10,5 @@
 Conseguir minha primeira oportunidade como estagiário na área de tecnologia.
 
 📂 Meus projetos:
-- Exercícios de lógica em Python
-- Projetos iniciais em JavaScript
+
+
