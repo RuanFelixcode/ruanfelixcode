@@ -23,5 +23,4 @@ https://github.com/ruanfelix675/pseudoc-digo
 https://github.com/ruanfelix675/fluxogramas_exercicio
 
 
-em constante mudança e evoluçao
 
