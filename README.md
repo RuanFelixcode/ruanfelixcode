@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Olá, eu sou Ruan Felix
 
-<!--
-**ruanfelix675/ruanfelix675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Desenvolvimento de Sistemas (SENAI)
 
-Here are some ideas to get you started:
+💻 Atualmente estudando:
+- Python
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Objetivo:
+Conseguir minha primeira oportunidade como estagiário na área de tecnologia.
+
+📂 Meus projetos:
+- Exercícios de lógica em Python
+- Projetos iniciais em JavaScript
