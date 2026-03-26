@@ -9,6 +9,9 @@
 🚀 Objetivo:
 Conseguir minha primeira oportunidade como estagiário na área de tecnologia.
 
+## meu curriculo
+
+
 
 
 📂 Meus projetos e exercicios:
