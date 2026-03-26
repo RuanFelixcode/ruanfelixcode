@@ -7,13 +7,7 @@
 - JavaScript
 
 🚀 Objetivo:
-Conseguir minha primeira oportunidade como estagiário na área de tecnologia.
-
-## meu curriculo
-https://docs.google.com/document/d/1iIpidRBqfY0nN2JEmPQ8wcaib4mOVcF6HTZaQukSJBc/edit?usp=drive_link
-
-
-
+Conseguir minha primeira oportunidade como estagiário na área de tecnologia
 
 📂 Meus projetos e exercicios:
 exercicios e projetos em python
