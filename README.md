@@ -8,6 +8,8 @@
 
 🚀 Objetivo:
 Conseguir minha primeira oportunidade como estagiário na área de tecnologia
+meu curriculo 
+https://docs.google.com/document/d/1xFKYc28CDhahwkakvTDGIxq4pTFFdzgYyN08DpxcuM8/edit?usp=sharing
 
 📂 Meus projetos e exercicios:
 exercicios e projetos em python
