@@ -18,12 +18,12 @@ https://docs.google.com/document/d/1xFKYc28CDhahwkakvTDGIxq4pTFFdzgYyN08DpxcuM8/
 
 
 📂 Meus exercicios:
-exercicios em python
+- exercicios em python
 https://github.com/ruanfelix675/exercicios.py
-===============================================
-exercicios em JavaScript
+
+- exercicios em JavaScript
 https://github.com/ruanfelix675/exercicios_e_projetos.js
-===============================================
+
 complementos em pseudocodigo e fluxogramas
 https://github.com/ruanfelix675/pseudoc-digo
 https://github.com/ruanfelix675/fluxogramas_exercicio
