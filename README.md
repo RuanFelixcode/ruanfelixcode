@@ -24,7 +24,7 @@ https://github.com/ruanfelix675/exercicios.py
 - exercicios em JavaScript
 https://github.com/ruanfelix675/exercicios_e_projetos.js
 
-complementos em pseudocodigo e fluxogramas
+- complementos em pseudocodigo e fluxogramas
 https://github.com/ruanfelix675/pseudoc-digo
 https://github.com/ruanfelix675/fluxogramas_exercicio
 
