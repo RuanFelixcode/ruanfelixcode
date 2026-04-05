@@ -11,11 +11,17 @@ Conseguir minha primeira oportunidade como estagiário na área de tecnologia.
 meu curriculo 
 https://docs.google.com/document/d/1xFKYc28CDhahwkakvTDGIxq4pTFFdzgYyN08DpxcuM8/edit?usp=sharing
 
-📂 Meus projetos e exercicios:
-exercicios e projetos em python
+##  📋 Meus Projetos
+-  Sistema Bancário Simples (Python) 
+-  acesse 
+
+
+
+📂 Meus exercicios:
+exercicios em python
 https://github.com/ruanfelix675/exercicios.py
 ===============================================
-exercicios e projetos em JavaScript
+exercicios em JavaScript
 https://github.com/ruanfelix675/exercicios_e_projetos.js
 ===============================================
 complementos em pseudocodigo e fluxogramas
