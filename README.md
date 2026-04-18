@@ -14,7 +14,8 @@ https://docs.google.com/document/d/1xFKYc28CDhahwkakvTDGIxq4pTFFdzgYyN08DpxcuM8/
 ##  📋 Meus Projetos
 -  Sistema Bancário Simples (Python) 
 -  acesse https://github.com/ruanfelix675/sistema-bancario-python
-
+- python-student-manager-basic
+- acesse https://github.com/ruanfelix675/python-student-manager-basic
 
 
 📂 Meus exercicios:
