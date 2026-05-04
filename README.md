@@ -19,6 +19,8 @@ https://docs.google.com/document/d/1xFKYc28CDhahwkakvTDGIxq4pTFFdzgYyN08DpxcuM8/
 -  https://github.com/RuanFelixcode/python-student-manager-basic
 -  Sistema-de-Controle-de-Estoque.py
 -  https://github.com/RuanFelixcode/Sistema-de-Controle-de-Estoque.py
+- ValidaCadastro.py
+- https://github.com/RuanFelixcode/Validar-Cadastro.py 
 
 
 📂 Meus exercicios de logica de programação:
