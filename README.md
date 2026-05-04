@@ -12,7 +12,6 @@ meu curriculo
 https://docs.google.com/document/d/1xFKYc28CDhahwkakvTDGIxq4pTFFdzgYyN08DpxcuM8/edit?usp=sharing
 
 ##  📋 Meus Projetos
--  projetos iniciados em 2026
 -  Sistema Bancário Simples (Python) 
 -  https://github.com/RuanFelixcode/sistema-bancario-python
 -  python-student-manager-basic
