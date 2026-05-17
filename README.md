@@ -9,7 +9,7 @@
 🚀 Objetivo:
 Conseguir minha primeira oportunidade como estagiário na área de tecnologia.
 meu curriculo 
-https://docs.google.com/document/d/1xFKYc28CDhahwkakvTDGIxq4pTFFdzgYyN08DpxcuM8/edit?usp=sharing
+https://drive.google.com/file/d/1AoU0FiV01gk7NXWTDm-aloKGy5LLdUxA/view?usp=sharing
 
 ##  📋 Meus Projetos
 -  Sistema Bancário Simples (Python) 
