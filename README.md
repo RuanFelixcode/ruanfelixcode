@@ -2,16 +2,14 @@
 
 🎓 Estudante de Desenvolvimento de Sistemas (SENAI)
 
-💻 Atualmente estudando:
-- Python
-- JavaScript
+
 
 🚀 Objetivo:
 Conseguir minha primeira oportunidade como estagiário na área de tecnologia.
 meu curriculo 
 https://drive.google.com/file/d/1AoU0FiV01gk7NXWTDm-aloKGy5LLdUxA/view?usp=sharing
 
-##  📋 Meus Projetos
+##  📋 Meus Projetos de logica de programação:
 -  Sistema Bancário Simples (Python) 
 -  https://github.com/RuanFelixcode/sistema-bancario-python
 -  python-student-manager-basic
@@ -25,9 +23,6 @@ https://drive.google.com/file/d/1AoU0FiV01gk7NXWTDm-aloKGy5LLdUxA/view?usp=shari
 📂 Meus exercicios de logica de programação:
 - exercicios em python
 https://github.com/RuanFelixcode/exercicios-logica.py
-
-- exercicios em JavaScript
-https://github.com/RuanFelixcode/exercicios-logica.js
 
 - complementos em pseudocodigo e fluxogramas
 - fluxogramas
