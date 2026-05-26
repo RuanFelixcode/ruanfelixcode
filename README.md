@@ -1,13 +1,14 @@
 👋 Olá, eu sou Ruan Felix
 
-🎓 Estudante de Desenvolvimento de Sistemas (SENAI)
 
+🎓 Estudante de Desenvolvimento de Sistemas (SENAI)
 
 
 🚀 Objetivo:
 Conseguir minha primeira oportunidade como estagiário na área de tecnologia.
 meu curriculo 
 https://drive.google.com/file/d/1AoU0FiV01gk7NXWTDm-aloKGy5LLdUxA/view?usp=sharing
+
 
 ##  📋 Meus Projetos de logica de programação:
 -  Sistema Bancário Simples (Python) 
