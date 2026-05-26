@@ -4,12 +4,6 @@
 🎓 Estudante de Desenvolvimento de Sistemas (SENAI)
 
 
-🚀 Objetivo:
-Conseguir minha primeira oportunidade como estagiário na área de tecnologia.
-meu curriculo 
-https://drive.google.com/file/d/1AoU0FiV01gk7NXWTDm-aloKGy5LLdUxA/view?usp=sharing
-
-
 ##  📋 Meus Projetos de logica de programação:
 -  Sistema Bancário Simples (Python) 
 -  https://github.com/RuanFelixcode/sistema-bancario-python
@@ -25,11 +19,20 @@ https://drive.google.com/file/d/1AoU0FiV01gk7NXWTDm-aloKGy5LLdUxA/view?usp=shari
 - exercicios em python
 https://github.com/RuanFelixcode/exercicios-logica.py
 
+
 - complementos em pseudocodigo e fluxogramas
 - fluxogramas
 https://github.com/RuanFelixcode/fluxogramas-exercicios
 
+
 - pseudocodigo
 https://github.com/RuanFelixcode/pseudocodigo
+
+
+🚀 Objetivo:
+Conseguir minha primeira oportunidade como estagiário na área de tecnologia.
+meu curriculo 
+https://drive.google.com/file/d/1AoU0FiV01gk7NXWTDm-aloKGy5LLdUxA/view?usp=sharing
+
 
 
