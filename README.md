@@ -19,7 +19,7 @@
 - exercicios em python
 https://github.com/RuanFelixcode/exercicios-logica.py
 - rascunhos_de_logica
-- https://github.com/RuanFelixcode/logica_no_papel
+ https://github.com/RuanFelixcode/logica_no_papel
 
 
 - complementos em pseudocodigo e fluxogramas
