@@ -13,7 +13,8 @@
 -  https://github.com/RuanFelixcode/Sistema-de-Controle-de-Estoque.py
 - Validar-Cadastro.py
 - https://github.com/RuanFelixcode/Validar-Cadastro.py 
-
+- estatisticas-jogadores
+- https://github.com/RuanFelixcode/estatisticas-jogadores
 
 📂 Meus exercicios de logica de programação:
 - exercicios em python
