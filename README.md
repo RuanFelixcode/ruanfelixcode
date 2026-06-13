@@ -15,6 +15,8 @@
 - https://github.com/RuanFelixcode/Validar-Cadastro.py 
 - estatisticas-jogadores
 - https://github.com/RuanFelixcode/estatisticas-jogadores
+- gerenciador-de-jogos
+- https://github.com/RuanFelixcode/gerenciador-de-jogos
 
 📂 Meus exercicios de logica de programação:
 - exercicios em python
