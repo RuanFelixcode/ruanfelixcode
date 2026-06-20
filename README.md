@@ -18,6 +18,10 @@
 - gerenciador-de-jogos
 - https://github.com/RuanFelixcode/gerenciador-de-jogos
 
+## 🗄️ Projetos com Banco de Dados
+- sistema-biblioteca
+- https://github.com/RuanFelixcode/sistema-biblioteca
+
 📂 Meus exercicios de logica de programação:
 - exercicios em python
 https://github.com/RuanFelixcode/exercicios-logica.py
