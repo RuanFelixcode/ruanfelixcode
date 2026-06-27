@@ -21,6 +21,8 @@
 ## 🗄️ Projetos com Banco de Dados
 - sistema-biblioteca
 - https://github.com/RuanFelixcode/sistema-biblioteca
+- controle_estoque_terminal
+- https://github.com/RuanFelixcode/controle_estoque_terminal
 
 📂 Meus exercicios de logica de programação:
 - exercicios em python
