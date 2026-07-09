@@ -35,6 +35,10 @@
 🤝 Contribuições e Projetos Colaborativos
 - Contribuição Open Source – DIO Lab Open Source
 - https://github.com/RuanFelixcode/dio-lab-open-source
+- Mecanismos de Segurança Digital (SENAI)
+- https://github.com/RuanFelixcode/Mecanismos-de-Seguran-a-Digital/tree/main
+- Projeto de Desenvolvimento Sustentável (SENAI)
+- https://github.com/RuanFelixcode/Projeto-de-Desenvolvimento-Sustent-vel
 
 
 
