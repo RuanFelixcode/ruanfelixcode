@@ -18,11 +18,18 @@
 - gerenciador-de-jogos
 - https://github.com/RuanFelixcode/gerenciador-de-jogos
 
+
 ## 🗄️ Projetos com Banco de Dados
 - sistema-biblioteca
 - https://github.com/RuanFelixcode/sistema-biblioteca
 - controle_estoque_terminal
 - https://github.com/RuanFelixcode/controle_estoque_terminal
+
+
+## ⚙️ projetos de automação
+- sistema-AutoFolderSort
+- https://github.com/RuanFelixcode/AutoFolderSort
+
 
 📂 Meus exercicios de logica de programação:
 - exercicios em python
