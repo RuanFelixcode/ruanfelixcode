@@ -58,10 +58,7 @@ https://github.com/RuanFelixcode/fluxogramas-exercicios
 https://github.com/RuanFelixcode/pseudocodigo
 
 
-🚀 Objetivo:
-Conseguir minha primeira oportunidade como estagiário na área de tecnologia.
-meu curriculo 
-https://drive.google.com/file/d/1AoU0FiV01gk7NXWTDm-aloKGy5LLdUxA/view?usp=sharing
+
 
 
 
