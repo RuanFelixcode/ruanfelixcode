@@ -24,6 +24,8 @@
 - https://github.com/RuanFelixcode/sistema-biblioteca
 - controle_estoque_terminal
 - https://github.com/RuanFelixcode/controle_estoque_terminal
+- Controle de Estoque Desktop
+- https://github.com/RuanFelixcode/controle_estoque_desktop
 
 
 ## ⚙️ projetos de automação
