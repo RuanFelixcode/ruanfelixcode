@@ -17,6 +17,8 @@
 - https://github.com/RuanFelixcode/estatisticas-jogadores
 - gerenciador-de-jogos
 - https://github.com/RuanFelixcode/gerenciador-de-jogos
+- Analisador de Consumo Sustentável
+- https://github.com/RuanFelixcode/Analisador-de-Consumo-Sustent-vel
 
 
 ## 🗄️ Projetos com Banco de Dados
