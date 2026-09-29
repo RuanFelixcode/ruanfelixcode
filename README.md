@@ -30,6 +30,11 @@
 - https://github.com/RuanFelixcode/controle_estoque_desktop
 
 
+## 🖥️ Estudos e Exercícios com Flet
+- RuanFelixcode-exercicios-flet
+- https://github.com/RuanFelixcode/exercicios-flet/tree/main
+
+
 ## ⚙️ projetos de automação
 - sistema-AutoFolderSort
 - https://github.com/RuanFelixcode/AutoFolderSort
