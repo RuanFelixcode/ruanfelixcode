@@ -6,6 +6,24 @@
 
 ## 🌐 Projetos Web — Django
 
+- **django-sistema-chamados** — Sistema de gerenciamento de chamados desenvolvido com Django
+- https://github.com/RuanFelixcode/django-sistema-chamados
+
+### Funcionalidades
+
+- 🔐 Cadastro, login e logout de usuários
+- 🎫 Criação e gerenciamento de chamados
+- ✏️ Edição e exclusão de chamados
+- 📋 Listagem de chamados por usuário
+- 👤 Associação dos chamados ao usuário autenticado
+- 🔄 Controle de status dos chamados
+- 📊 Dashboard com quantidade de chamados por status
+- 🛡️ Restrição de acesso com `login_required`
+- 🗄️ SQLite e Django ORM
+- 🛠️ Django Admin
+
+---
+
 - **django-loja-virtual** — Sistema web de loja virtual desenvolvido com Django
 - https://github.com/RuanFelixcode/django-loja-virtual
 
@@ -23,7 +41,6 @@
 - 🗄️ SQLite e Django ORM
 - 🛠️ Django Admin
 - 🔗 Relacionamentos entre Models
-
 ---
 
 ## ⚙️ Projetos de Automação
