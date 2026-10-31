@@ -6,6 +6,25 @@
 
 ## 🌐 Projetos Web — Django
 
+- **django-sistema-tarefas** — Sistema de gerenciamento de tarefas desenvolvido com Django
+- https://github.com/RuanFelixcode/sistema-de-tarefas
+
+### Funcionalidades
+
+- 🔐 Cadastro, login e logout de usuários
+- 📝 Criação e gerenciamento de tarefas
+- ✏️ Edição e exclusão de tarefas
+- 📋 Listagem de tarefas por usuário
+- 👤 Associação das tarefas ao usuário autenticado
+- 🔄 Controle de status das tarefas
+- ✅ Conclusão de tarefas
+- 📊 Dashboard com quantidade de tarefas por status
+- 🛡️ Restrição de acesso com `login_required`
+- 🗄️ SQLite e Django ORM
+- 🛠️ Django Admin
+
+---
+
 - **django-sistema-chamados** — Sistema de gerenciamento de chamados desenvolvido com Django
 - https://github.com/RuanFelixcode/django-sistema-chamados
 
@@ -41,6 +60,7 @@
 - 🗄️ SQLite e Django ORM
 - 🛠️ Django Admin
 - 🔗 Relacionamentos entre Models
+
 ---
 
 ## ⚙️ Projetos de Automação
